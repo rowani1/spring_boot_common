@@ -26,6 +26,8 @@
         <module>common-file</module>
         <module>common-excel</module>
         <module>common-cache</module>
+        <module>common-log</module>
+        <module>common-security</module>
         <module>common-autoconfigure</module>
         <module>common-starter</module>
     </modules>
@@ -68,6 +70,16 @@
             <dependency>
                 <groupId>com.common</groupId>
                 <artifactId>common-cache</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.common</groupId>
+                <artifactId>common-log</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.common</groupId>
+                <artifactId>common-security</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>

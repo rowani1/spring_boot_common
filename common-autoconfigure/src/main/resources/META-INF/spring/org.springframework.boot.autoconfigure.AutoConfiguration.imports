@@ -1,3 +1,5 @@
 com.common.autoconfigure.CommonAutoConfiguration
 com.common.autoconfigure.FileAutoConfiguration
 com.common.autoconfigure.CacheAutoConfiguration
+com.common.autoconfigure.LogAutoConfiguration
+com.common.autoconfigure.SecurityAutoConfiguration

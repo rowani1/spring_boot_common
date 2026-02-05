@@ -8,3 +8,6 @@
 /.claude/
 /openspec/
 /.idea/
+.ace-tool/
+/common-log/target/
+/common-security/target/
