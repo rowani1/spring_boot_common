@@ -1,0 +1,10 @@
+# Project exclude paths
+/common-autoconfigure/target/
+/common-cache/target/
+/common-core/target/
+/common-excel/target/
+/common-file/target/
+/common-web/target/
+/.claude/
+/openspec/
+/.idea/
