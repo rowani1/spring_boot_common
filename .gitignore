@@ -11,3 +11,4 @@
 .ace-tool/
 /common-log/target/
 /common-security/target/
+/common-mapper/target/

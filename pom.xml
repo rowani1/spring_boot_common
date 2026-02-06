@@ -28,6 +28,7 @@
         <module>common-cache</module>
         <module>common-log</module>
         <module>common-security</module>
+        <module>common-mapper</module>
         <module>common-autoconfigure</module>
         <module>common-starter</module>
     </modules>
@@ -80,6 +81,11 @@
             <dependency>
                 <groupId>com.common</groupId>
                 <artifactId>common-security</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.common</groupId>
+                <artifactId>common-mapper</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
